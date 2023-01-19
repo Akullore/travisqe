@@ -1,5 +1,5 @@
+language: generic
 os: linux
-language: ruby
 rvm: 2.6.3
 jobs:
   include:
