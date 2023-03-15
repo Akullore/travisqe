@@ -5,4 +5,4 @@ jobs:
       stage: "sleep 109"
       script: sleep 1
 git:
-      depth: 2
+      depth: 1
