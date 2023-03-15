@@ -1,1 +1,8 @@
-1234efsf
+os: linux
+rvm: 2.6.3
+jobs:
+  include:
+      stage: "sleep 109"
+      script: sleep 1
+git:
+      depth: 1  
