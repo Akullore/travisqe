@@ -4,4 +4,5 @@ jobs:
   include:
       stage: "sleep 109"
       script: sleep 1
-      depth:  ["1"],
+      git:
+  depth: 1,
